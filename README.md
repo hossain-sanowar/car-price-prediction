@@ -49,5 +49,5 @@ The following factors are crucial in estimating an automobile's price:
 
 We can see that the equation of our best fitted line is:
 
-$ Price$ = 0.7081 \times  horsepower + 0.3093 \times  wheelbase + 0.2436 \times class luxury - 0.0441 \times carbody hatchback - 0.0456 \times carbody wagon -0.0715$
+$ Price = 0.7081 \times  horsepower + 0.3093 \times  wheelbase + 0.2436 \times class luxury - 0.0441 \times carbody hatchback - 0.0456 \times carbody wagon -0.0715$
 
